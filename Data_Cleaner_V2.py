@@ -1,6 +1,7 @@
 import os
 import csv
 
+#Author : Abdulmalik Hawsawi
 # find the file paths so it works on any machine using os ( operating system)
 file_path = os.path.dirname(os.path.abspath(__file__))
 input_file = os.path.join(file_path , 'dirty_data.csv')
@@ -111,4 +112,5 @@ type = fix_types(load)
 missing = remove_missing(type)
 normal = normalize_text(missing)
 data = remove_duplicates(normal)
+
 save_clean_data(data , output_file)
