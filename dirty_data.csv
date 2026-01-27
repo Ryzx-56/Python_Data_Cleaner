@@ -1,0 +1,71 @@
+id,name,age,email,salary
+1, Omar Hassan ,thirty,,3981
+2,Tom Black,twenty,JOHN@EXAMPLE.COM,five_thousand
+3, Lisa White ,twenty,SARA@EXAMPLE.COM,
+4, Omar Hassan ,20,lisa@example.com, 
+5, Tom Black ,twenty,,8998
+6,Jane Smith,28,tom@example.com,11581
+7,Noura Ali,21,JOHN@EXAMPLE.COM,10836
+8, John Doe ,23,tom@example.com,not_available
+9, Fatima Noor ,thirty,TOM@EXAMPLE.COM,10504
+10, Tom Black ,21,david@example.com,3921
+11,Lisa White, , ,five_thousand
+12, Ali Ahmed , ,jane@example.com,five_thousand
+13,Fatima Noor,33,ali@example.com, 
+14,Ahmed Salem, ,TOM@EXAMPLE.COM,8350
+15,Mike Brown,thirty,,10211
+16,Jane Smith,30,JANESMITH@EXAMPLE.COM,4018
+17,Jane Smith,,sara@example.com, 
+18, Fatima Noor ,,fatimanoor@example.com, 
+19, Ali Ahmed ,34,,not_available
+20,Jane Smith,thirty,,not_available
+21,Omar Hassan,43,john@example.com,7159
+22,Tom Black,,john@example.com,5328
+23,Sara Khan,,sarakhan@example.com,five_thousand
+24, Ahmed Salem ,58,david@example.com,five_thousand
+25, David Lee , ,DAVID@EXAMPLE.COM,five_thousand
+26,Ali Ahmed,thirty,mike@example.com,
+27,David Lee,,ali@example.com,
+28,Lisa White,53,tom@example.com,4947
+29,Ahmed Salem,thirty,sara@example.com,10636
+30, Mike Brown , ,lisa@example.com,7207
+31,David Lee, ,mike@example.com,five_thousand
+32, Omar Hassan ,,TOM@EXAMPLE.COM,
+33, Ali Ahmed , , ,not_available
+34,Fatima Noor,50,FATIMANOOR@EXAMPLE.COM,6523
+35,David Lee,43,JANE@EXAMPLE.COM,five_thousand
+36,Lisa White,twenty,ali@example.com,6863
+37,Noura Ali,41,,not_available
+38,Fatima Noor,,fatimanoor@example.com,
+39,John Doe,twenty,JANE@EXAMPLE.COM,5646
+40,Jane Smith,twenty,, 
+41, Sara Khan ,26,sara@example.com,4780
+42,Mike Brown,60,sara@example.com,11498
+43, Ali Ahmed ,twenty,john@example.com,8010
+44,David Lee, ,tom@example.com, 
+45,Lisa White,35,lisa@example.com,8185
+46,Ahmed Salem,,lisa@example.com,5086
+47,Tom Black,49,,five_thousand
+48,Fatima Noor,27,david@example.com,five_thousand
+49,Fatima Noor,43,,10898
+50, Fatima Noor , ,lisa@example.com,8836
+51,Ali Ahmed,21,mike@example.com,11343
+52,Tom Black,twenty,lisa@example.com,9228
+53,Omar Hassan,45,sara@example.com,3983
+54, Fatima Noor ,twenty,lisa@example.com,not_available
+55,Lisa White,18,ALI@EXAMPLE.COM,8717
+56, Jane Smith ,38,mike@example.com,five_thousand
+57,John Doe,twenty,JOHNDOE@EXAMPLE.COM, 
+58,Tom Black,thirty,MIKE@EXAMPLE.COM,
+59,Lisa White,twenty,john@example.com,10698
+60,John Doe,38,ALI@EXAMPLE.COM,11792
+1, Omar Hassan ,thirty,,3981
+2,Tom Black,twenty,JOHN@EXAMPLE.COM,five_thousand
+3, Lisa White ,twenty,SARA@EXAMPLE.COM,
+4, Omar Hassan , ,lisa@example.com, 
+5, Tom Black ,twenty,,8998
+6,Jane Smith,28,tom@example.com,11581
+7,Noura Ali,21,JOHN@EXAMPLE.COM,10836
+8, John Doe ,23,tom@example.com,not_available
+9, Fatima Noor ,thirty,TOM@EXAMPLE.COM,10504
+10, Tom Black ,21,david@example.com,3921
